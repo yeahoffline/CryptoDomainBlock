@@ -13,6 +13,9 @@ Uses a list to check locally for a "known & trusted" tld.
 - **myetherwallet.scammtld** -> blocked
 - **myetherwallet.de** -> blocked
 
+### Ideas
+- Dezentralized list updates
+- user white/black lists
 
 ### Help
 - Consider a pull request
