@@ -1,8 +1,11 @@
 # CryptoDomainBlock
 
 
-Chrome extension for comparing domain names to prevent ads, scam, phishing and fake news.
-Uses a list to check locally for a "known & trusted" tld.
+Compares domain names to prevent ads, scam, phishing and fake news
+
+Crypto Domain Block is a browser extension for comparing domain names to prevent ads, scam, phishing and fake news.
+It uses a local list to check for a 'known & trusted' domain / TLD (Top-Level-Domain) combination. 
+'IDN homograph attack' detection included.
 
 [Google Chrome Webstore]
 
@@ -11,16 +14,19 @@ Uses a list to check locally for a "known & trusted" tld.
 ### Goal
 - **myetherwallet.com** -> ok
 - **myetherwallet.scammtld** -> blocked
-- **myetherwallet.de** -> blocked
 
-### Ideas
-- Dezentralized list updates
-- user white/black lists
+- **mymonero.com** -> ok
+- **mymọnero.com** -> blocked (notice the ọ)
+
+
 
 ### Help
 - Consider a pull request
-- Bugs or domains: cryptodomainblock@protonmail.com
+- Bugs or contact: cryptodomainblock@protonmail.com
 - BTC: 15HdtrZxDtM8byuJUsZgFKfQ8coww5SM5o
+- LTC: LdsdrBAg8D3eZthvRh24wfKnfHfMULf92h
+
+
 
 
 License
