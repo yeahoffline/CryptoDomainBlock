@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "CryptoDomainBlock",
   "short_name": "CryptoDomainBlock",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "default_locale": "en",
   "description": "Compares domain names to prevent ads, scam, phishing and fake news",
   "homepage_url": "https://github.com/yeahoffline/CryptoDomainBlock",
