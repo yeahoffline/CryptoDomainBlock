@@ -146,7 +146,7 @@ const knownTLDs = {
   'xapo': ['com'],
   'tenx': ['tech'],
   'blocknotary': ['com'],
-  'bytecoin': ['org'],
+  'bytecoin': ['org', 'money'],
   'sia': ['tech'],
   'oraclize': ['it'],
   'coindash': ['io'],
